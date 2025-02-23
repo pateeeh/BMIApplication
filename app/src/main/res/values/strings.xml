@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMIApplication</string>
+    <string name="nama">Nama :</string>
+    <string name="usia">Usia :</string>
+    <string name="berat">Berat :</string>
+    <string name="tinggi">Tinggi :</string>
+    <string name="btnhitung">Hitung</string>
+    <string name="bmi">BMI</string>
+    <string name="keterangan">Keterangan:</string>
+    <string name="input_nama">Masukkan Nama Anda</string>
+    <string name="input_usia">Masukkan Usia Anda</string>
+    <string name="input_berat">Masukkan Berat Badan Anda</string>
+    <string name="input_tinggi">Masukkan Tinggi Badan Anda</string>
+    <string name="ideal">Ideal</string>
+</resources>
